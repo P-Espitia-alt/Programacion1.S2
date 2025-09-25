@@ -17,7 +17,7 @@ public class Main {
         System.out.println("git checkout (nombre de la rama) = cambiar de rama");
         System.out.println("git pull origin (nombre de la rama) = traer a rama local desde rama remota");
 
-        System.out.println("Mi nombre es Maria Paula Espitia Segura");
+        System.out.println("Mi nombre es Paula Espitia");
         System.out.println("Actualmente vivo en chia, Cundinamarca");
         System.out.println("Tengo 2 mascotas, una gatita llamada Shadow y una perrita llamada Luna");
 
